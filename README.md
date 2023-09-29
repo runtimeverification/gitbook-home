@@ -6,7 +6,7 @@ layout: landing
 
 <div align="left">
 
-<figure><a href="docs.runtimeverification.com/kontrol"><img src=".gitbook/assets/kontrol logo yellow.png" alt=""><figcaption></figcaption></a>a></figure>
+<figure><a href="docs.runtimeverification.com/kontrol"><img src=".gitbook/assets/kontrol logo yellow.png" alt=""><figcaption></figcaption></a></figure>
 
 </div>
 
