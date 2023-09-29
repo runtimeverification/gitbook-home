@@ -4,7 +4,13 @@ layout: landing
 
 # Runtime Verification Docs
 
-[Kontrol](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/T2KVb4tqbNdAsPxsEyPQ/ "mention"): **Kontrol** combines **KEVM** and Foundry, it grants developers the ability to perform formal verification without learning a new language or tool.&#x20;
+<div align="left">
+
+<figure><img src=".gitbook/assets/kontrol logo yellow.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+**Kontrol** combines **KEVM** and Foundry, it grants developers the ability to perform formal verification without learning a new language or tool.&#x20;
 
 \
 [KEVM](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/nXIoktUrQI0xNHjxIyRH/ "mention"): Model of the EVM in **K**
