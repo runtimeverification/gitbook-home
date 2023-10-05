@@ -6,6 +6,7 @@ layout: landing
 
 <div align="left">
 
+[![kontrol-logo](https://github.com/runtimeverification/gitbook-home/blob/main/.gitbook/assets/kontrol%20logo%20yellow.png?raw=true)]([https://some.site/your-link.html](https://docs.runtimeverification.com/kontrol/))
 <figure><img src=".gitbook/assets/kontrol logo yellow.png" alt=""><figcaption></figcaption></figure>
 
 </div>
