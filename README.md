@@ -4,14 +4,9 @@ layout: landing
 
 # Runtime Verification Docs
 
-<div align="left">
+[![kontrol-logo](.gitbook/assets/kontrol%20logo%20yellow.png)](https://docs.runtimeverification.com/kontrol/)
 
-[![kontrol-logo](https://github.com/runtimeverification/gitbook-home/blob/main/.gitbook/assets/kontrol%20logo%20yellow.png?raw=true)](https://docs.runtimeverification.com/kontrol/)
-<figure><img src=".gitbook/assets/kontrol logo yellow.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-[Kontrol](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/T2KVb4tqbNdAsPxsEyPQ/ "mention") combines **KEVM** and Foundry, it grants developers the ability to perform formal verification without learning a new language or tool.&#x20;
+[Kontrol](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/T2KVb4tqbNdAsPxsEyPQ/ "mention") combines **KEVM** and Foundry, it grants developers the ability to perform formal verification without learning a new language or tool.
 
 ***
 
