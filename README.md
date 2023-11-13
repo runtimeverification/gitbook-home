@@ -10,6 +10,16 @@ layout: landing
 
 ***
 
+![](<.gitbook/assets/simbolik logo blue.png>)
+
+**Simbolik** is a powerful symbolic debugger tailored for debugging Solidity smart contracts. It leverages the capabilities of the **K** framework and employs symbolic execution techniques to meticulously identify potential vulnerabilities in smart contracts.
+
+{% hint style="warning" %}
+**Simbolik** documentation is currently unavailable, but it will be accessible here once it becomes available.
+{% endhint %}
+
+***
+
 [KEVM](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/nXIoktUrQI0xNHjxIyRH/ "mention"): Model of the EVM in **K**
 
 ### Join Us
