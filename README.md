@@ -10,13 +10,13 @@ layout: landing
 
 ***
 
-![](<.gitbook/assets/simbolik logo blue.png>)
+[![simbolik-logo](<.gitbook/assets/simbolik logo blue.png>)](https://docs.runtimeverification.com/simbolik/)
 
 [Simbolik](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/zCOdqWv0fh3PWWZ9bxGg/ "mention") is a powerful symbolic debugger tailored for debugging Solidity smart contracts. It leverages the capabilities of the **K** framework and employs symbolic execution techniques to meticulously identify potential vulnerabilities in smart contracts.
 
 ***
 
-![](<.gitbook/assets/kasmer logo yellow.png>)
+[![kasmer-logo](<.gitbook/assets/kasmer logo yellow.png>)](https://docs.runtimeverification.com/kasmer/)
 
 [Kasmer](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/LNjJhIy8IvwZQiEZCgXW/ "mention") is a tool based on a rigorous formal semantics that provides property testing and verification for the Multivers blockchain.
 
