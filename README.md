@@ -22,7 +22,7 @@ layout: landing
 
 ***
 
-[![ERCx-logo](.gitbook/assets/image.png)](https://docs.runtimeverification.com/ercx)
+[![ERCx-logo](<.gitbook/assets/image.png>)](https://docs.runtimeverification.com/ercx)
 
 [ERCx](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/ywbjiQ7KftDuGzYwEwOp/ "mention") a tool built to check the _conformance_ of a contract to the [ERC (Ethereum Request for Comments) standards](https://eips.ethereum.org/erc).
 
