@@ -4,21 +4,27 @@ layout: landing
 
 # Runtime Verification Docs
 
-[![kontrol-logo](.gitbook/assets/kontrol%20logo%20yellow.png)](https://docs.runtimeverification.com/kontrol/)
+[![kontrol-logo](<.gitbook/assets/kontrol logo yellow.png>)](https://docs.runtimeverification.com/kontrol/)
 
-[Kontrol](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/T2KVb4tqbNdAsPxsEyPQ/ "mention") combines **KEVM** and Foundry, it grants developers the ability to perform formal verification without learning a new language or tool.
+[Kontrol](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/T2KVb4tqbNdAsPxsEyPQ/ "mention") combines **KEVM** and Foundry, it grants developers the ability to perform formal verification without learning a new language or tool.
 
 ***
 
 [![simbolik-logo](<.gitbook/assets/simbolik logo blue.png>)](https://docs.runtimeverification.com/simbolik/)
 
-[Simbolik](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/zCOdqWv0fh3PWWZ9bxGg/ "mention") is a powerful symbolic debugger tailored for debugging Solidity smart contracts. It leverages the capabilities of the **K** framework and employs symbolic execution techniques to meticulously identify potential vulnerabilities in smart contracts.
+[Simbolik](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/zCOdqWv0fh3PWWZ9bxGg/ "mention") is a powerful symbolic debugger tailored for debugging Solidity smart contracts. It leverages the capabilities of the **K** framework and employs symbolic execution techniques to meticulously identify potential vulnerabilities in smart contracts.
 
 ***
 
 [![kasmer-logo](<.gitbook/assets/kasmer logo yellow.png>)](https://docs.runtimeverification.com/kasmer/)
 
-[Kasmer](http://127.0.0.1:5000/o/MwuC1PgHx91Qm96rVCnq/s/LNjJhIy8IvwZQiEZCgXW/ "mention") is a tool based on a rigorous formal semantics that provides property testing and verification for the Multivers blockchain.
+[Kasmer](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/LNjJhIy8IvwZQiEZCgXW/ "mention") is a tool based on rigorous formal semantics that provides property testing and verification for the Multivers blockchain.
+
+***
+
+### ![](.gitbook/assets/image.png)
+
+[ERCx](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/ywbjiQ7KftDuGzYwEwOp/ "mention") a tool built to check the _conformance_ of a contract to the [ERC (Ethereum Request for Comments) standards](https://eips.ethereum.org/erc).
 
 ***
 
