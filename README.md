@@ -28,7 +28,7 @@ layout: landing
 
 ***
 
-[![KaaS-logo](.gitbook/assets/KaaS-logo.png)](https://docs.runtimeverification.com/kaas)
+[![KaaS-logo](.gitbook/assets/kaas logo yellow.png)](https://docs.runtimeverification.com/kaas)
 
 [KaaS](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/uVN3ospSdbIsN8UHDZSg/overview/kaas "mention") CI integrated, cloud-based symbolic execution accessible via an API
 
