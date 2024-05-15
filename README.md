@@ -28,6 +28,11 @@ layout: landing
 
 ***
 
+[![KaaS-logo](.gitbook/assets/KaaS-logo.png)](https://docs.runtimeverification.com/kaas)
+
+[KaaS](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/uVN3ospSdbIsN8UHDZSg/overview/kaas "mention") CI integrated, cloud-based symbolic execution accessible via an API
+
+
 ### Join Us
 
 Please come and join us in [discord](https://discord.com/invite/CurfmXNtbN) and let us know what you would like us to do next. And, if by any chance you are looking for a career change or you are a student looking for an internship, [come and talk to us](https://runtimeverification.com/careers)! We are always looking for exceptional individuals with a passion for formal methods and **K** to join the team in our office in Urbana, Singapore, or remotely from anywhere in the world.
