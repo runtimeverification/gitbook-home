@@ -12,7 +12,7 @@ layout: landing
 
 [![simbolik-logo](<.gitbook/assets/simbolik logo blue.png>)](https://docs.runtimeverification.com/simbolik/)
 
-[Simbolik](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/zCOdqWv0fh3PWWZ9bxGg/ "mention") is a powerful symbolic debugger tailored for debugging Solidity smart contracts. It leverages the capabilities of the **K** framework and employs symbolic execution techniques to meticulously identify potential vulnerabilities in smart contracts.
+[Simbolik](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/WhAuD1DmzZoWPS62YwmQ/) is a powerful symbolic debugger tailored for debugging Solidity smart contracts. It leverages the capabilities of the **K** framework and employs symbolic execution techniques to meticulously identify potential vulnerabilities in smart contracts.
 
 ***
 
@@ -30,8 +30,7 @@ layout: landing
 
 [![KaaS-logo](<.gitbook/assets/kaas logo yellow.png>)](https://docs.runtimeverification.com/kaas)
 
-[KaaS](https://app.gitbook.com/o/MwuC1PgHx91Qm96rVCnq/s/uVN3ospSdbIsN8UHDZSg/overview/kaas "mention") CI integrated, cloud-based symbolic execution accessible via an API
-
+[KaaS](https://app.gitbook.com/s/uVN3ospSdbIsN8UHDZSg/overview/kaas "mention") CI integrated, cloud-based symbolic execution accessible via an API
 
 ### Join Us
 
