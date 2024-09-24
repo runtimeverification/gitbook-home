@@ -32,7 +32,7 @@ layout: landing
 
 [KaaS](https://app.gitbook.com/s/uVN3ospSdbIsN8UHDZSg/overview/kaas "mention") CI integrated, cloud-based symbolic execution accessible via an API
 
-[komet]([https](https://docs.runtimeverification.com/komet/)
+[komet]((https://docs.runtimeverification.com/komet/)
 
 ### Join Us
 
